@@ -13,6 +13,9 @@ cd /../Pwn3rd-Wallpaper/
 ```
 Enjoy !
 
+You can use apps like `Waypaper`, `Feh`, etc... which allow you to manage and change wallpapers.
+Very useful if you use tiling window managers.
+
 
 ## Wallpaper Resources
 
