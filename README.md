@@ -21,4 +21,6 @@ Very useful if you use tiling window managers.
 
 Great download resources for wallpapers are:
 
-https://4kwallpapers.com
+https://4kwallpapers.com  
+https://www.pixground.com/  
+https://unsplash.com  
